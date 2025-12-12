@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=5E4437,5A3A22,A08963,706D54&text=Monisha%20G&fontSize=58&fontAlignY=35&desc=B.Tech%20CSBS%20Student%20%7C%20Web%20Developer&descAlignY=60&descAlign=50&fontColor=ffffff&animation=fadeIn&stroke=ffffff&strokeWidth=0.4" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=5E4437,6F4E37&text=Monisha%20G&fontSize=58&fontAlignY=35&desc=B.Tech%20CSBS%20Student%20%7C%20Web%20Developer&descAlignY=60&descAlign=50&fontColor=ffffff&animation=fadeIn&stroke=ffffff&strokeWidth=0.4" alt="header"/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=SF+Mono&duration=3200&pause=1000&color=FADADD&center=true&vCenter=true&width=500&lines=Web+Developer+%7C+UI+Designer;Building+SHAA+Cosmetics+💄;Passionate+about+Frontend+Development+✨" alt="Typing SVG" />
 
