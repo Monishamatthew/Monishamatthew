@@ -115,9 +115,9 @@ featuring <b>product showcase</b>, <b>responsive design</b>, and <b>smooth UI/UX
 
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SwathiKaruppaiya15/SwathiKaruppaiya15/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SwathiKaruppaiya15/SwathiKaruppaiya15/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/SwathiKaruppaiya15/SwathiKaruppaiya15/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Monishamatthew/Monishamatthew/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Monishamatthew/Monishamatthew/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Monishamatthew/Monishamatthew/output/github-snake.svg" />
 </picture>
 </div>
 
