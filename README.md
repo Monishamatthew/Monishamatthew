@@ -17,12 +17,12 @@ Passionate about *Web Development*, *UI Design*, and *Software Development*.
 <br/>
 
 ## Frontend  
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap&theme=light" alt="Frontend" height="45"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap&theme=light" alt="Frontend" height="45"/>
 
 <br/>
 
 ## Tools  
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,canva&theme=light" alt="Tools" height="45"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,canva&theme=light" alt="Tools" height="45"/>
 
 <br/><br/>
 ---
