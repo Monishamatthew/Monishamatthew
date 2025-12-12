@@ -2,13 +2,12 @@
 <div align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=SF+Mono&duration=3200&pause=1000&color=FADADD&center=true&vCenter=true&width=500&lines=Web+Developer+%7C+UI+Designer;Building+SHAA+Cosmetics+💄;Passionate+about+Frontend+Development+✨" alt="Typing SVG" />
 </div>
----
-🌸 **B.Tech Computer Science and Business Systems student at KIT, Coimbatore** 🌸  
-Passionate about *Web Development*, *UI Design*, and *Software Development*.  
+🌸 **B.Tech Computer Science and Business Systems student at KIT, Coimbatore** 🌸
+Passionate about *Web Development*, *UI Design*, and *Software Development*. 
 💻 Exploring creative solutions through clean code and modern design.  
 
 <br/>
----
+
 
 # 💻 Tech Stack
 
