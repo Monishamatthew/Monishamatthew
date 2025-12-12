@@ -1,4 +1,7 @@
-<div align="center" style="background-color:#000000; color:#ffffff; padding:30px; border-radius:20px;">
+<div align="center" style="background-color:#C2A890; color:#000000; padding:30px; border-radius:20px;">
+    
+</div>
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=12,15,18&text=Monisha%20G&fontSize=58&fontAlignY=35&desc=B.Tech%20CSBS%20Student%20%7C%20Web%20Developer&descAlignY=60&descAlign=50&fontColor=ffffff&animation=fadeIn&stroke=ffffff&strokeWidth=0.4" alt="header"/>
 
