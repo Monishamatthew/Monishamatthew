@@ -1,9 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=5E4437,6F4E37&text=Monisha%20G&fontSize=58&fontAlignY=35&desc=B.Tech%20CSBS%20Student%20%7C%20Web%20Developer&descAlignY=60&descAlign=50&fontColor=ffffff&animation=fadeIn&stroke=ffffff&strokeWidth=0.4" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=452829,5E4437,4B3621&text=Monisha%20G&fontSize=58&fontAlignY=35&desc=B.Tech%20CSBS%20Student%20%7C%20Web%20Developer&descAlignY=60&descAlign=50&fontColor=ffffff&animation=fadeIn&stroke=ffffff&strokeWidth=0.4" alt="header"/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=SF+Mono&duration=3200&pause=1000&color=FADADD&center=true&vCenter=true&width=500&lines=Web+Developer+%7C+UI+Designer;Building+SHAA+Cosmetics+💄;Passionate+about+Frontend+Development+✨" alt="Typing SVG" />
 
 ---
-
 🌸 **B.Tech Computer Science and Business Systems student at KIT, Coimbatore** 🌸  
 Passionate about *Web Development*, *UI Design*, and *Software Development*.  
 💻 Exploring creative solutions through clean code and modern design.  
@@ -14,7 +13,7 @@ Passionate about *Web Development*, *UI Design*, and *Software Development*.
 # 💻 Tech Stack
 
 ## Languages  
-<img src="https://skillicons.dev/icons?i=html,css,js,cpp,python&theme=light" alt="Languages" height="45"/>
+<img src="https://skillicons.dev/icons?i=java,c,js,python&theme=light" alt="Languages" height="45"/>
 
 <br/>
 
@@ -60,15 +59,15 @@ featuring <b>product showcase</b>, <b>responsive design</b>, and <b>smooth UI/UX
   </tr>
   <tr>
     <td>LeetCode</td>
-    <td>—</td>
-    <td>—</td>
-    <td>—</td>
+    <td>32</td></td>
+    <td>512</td></td>
+    <td>2</td>
   </tr>
   <tr>
     <td>CodeChef</td>
-    <td>—</td>
-    <td>—</td>
-    <td>—</td>
+    <td>272</td></td>
+    <td>1120</td></td>
+    <td>93</td></td>
   </tr>
 </table>
 
@@ -103,20 +102,25 @@ featuring <b>product showcase</b>, <b>responsive design</b>, and <b>smooth UI/UX
 
 # 📊 GitHub Stats  
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Monishamatthew&theme=transparent&ring=9370DB&fire=BA55D3&currStreakLabel=FFFFFF"/>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Monishamatthew&theme=transparent&ring=9370DB&fire=BA55D3&currStreakLabel=FFFFFF" width="48%"/>
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=Monishamatthew&show_icons=true&theme=dark&title_color=BA55D3&text_color=D8BFD8&icon_color=9370DB" width="48%"/> -->
 
-<img src="https://github-readme-stats.vercel.app/api?username=Monishamatthew&show_icons=true&theme=transparent&title_color=BA55D3&text_color=D8BFD8&icon_color=9370DB"/>
+</div>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Monishamatthew&layout=compact&theme=transparent&title_color=BA55D3&text_color=D8BFD8"/>
+<br/>
+
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Monishamatthew&layout=compact&theme=dark&title_color=BA55D3&text_color=D8BFD8"/> -->
+
 <br/><br/>
 ---
 
 <div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Monishamatthew/Monishamatthew/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Monishamatthew/Monishamatthew/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Monishamatthew/Monishamatthew/output/github-snake.svg" />
-</picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Monishamatthew/Monishamatthew/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Monishamatthew/Monishamatthew/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Monishamatthew/Monishamatthew/output/github-snake.svg" />
+  </picture>
 </div>
 
 # 🎨 About Me  
