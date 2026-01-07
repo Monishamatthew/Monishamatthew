@@ -1,6 +1,7 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=0B0503,120A07,1C120D&text=Monisha%20G&fontSize=58&fontAlignY=35&desc=B.Tech%20CSBS%20Student%20%7C%20Web%20Developer&descAlignY=60&descAlign=50&fontColor=ffffff&animation=fadeIn&stroke=ffffff&strokeWidth=0.4&cacheSeconds=1" alt="header"/>
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Monishamatthew/Monishamatthew/main/Blue%20Futuristic%20Artificial%20Intelligence%20Video.png" alt="Profile Banner" height="350px" width="100%" />
+</p>
+
 
 
 </div>
