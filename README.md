@@ -65,9 +65,7 @@ Focused on structured product display, responsive design, and user-friendly inte
     <img src="https://img.shields.io/badge/Codeforces-FF8C00?style=for-the-badge" />
   </a>
 
-  <a href="https://atcoder.jp/users/Siby_369" target="_blank">
-    <img src="https://img.shields.io/badge/AtCoder-00AA00?style=for-the-badge" />
-  </a>
+  
   
   <a href="https://codolio.com/profile/monisha.ganesh20" target="_blank">
     <img src="https://img.shields.io/badge/Codolio-FF6F00?style=for-the-badge" />
@@ -160,7 +158,7 @@ Focused on structured product display, responsive design, and user-friendly inte
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge" />
   </a>
 
-  <a href="https://www.linkedin.com/in/monishag/" target="_blank">
+  <a href="https://www.linkedin.com/in/monisha-g-1b30bb2a6/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge" />
   </a>
 
