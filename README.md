@@ -1,10 +1,19 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=452829,5E4437,4B3621&text=Monisha%20G&fontSize=58&fontAlignY=35&desc=B.Tech%20CSBS%20Student%20%7C%20Web%20Developer&descAlignY=60&descAlign=50&fontColor=ffffff&animation=fadeIn&stroke=ffffff&strokeWidth=0.4" alt="header"/>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=0B0503,120A07,1C120D&text=Monisha%20G&fontSize=58&fontAlignY=35&desc=B.Tech%20CSBS%20Student%20%7C%20Web%20Developer&descAlignY=60&descAlign=50&fontColor=ffffff&animation=fadeIn&stroke=ffffff&strokeWidth=0.4&cacheSeconds=1" alt="header"/>
+</div>
+
+
+</div>
 <div align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=SF+Mono&duration=3200&pause=1000&color=FADADD&center=true&vCenter=true&width=500&lines=Web+Developer+%7C+UI+Designer;Building+SHAA+Cosmetics+💄;Passionate+about+Frontend+Development+✨" alt="Typing SVG" />
 </div>
-🌸 **B.Tech Computer Science and Business Systems student at KIT, Coimbatore** 🌸
-Passionate about *Web Development*, *UI Design*, and *Software Development*. 
-💻 Exploring creative solutions through clean code and modern design.  
+<p align="left">
+<strong>B.Tech Computer Science and Business Systems — KIT, Coimbatore</strong>
+Focused on Web Development, UI Design, and Software Development.  
+Building clean, responsive interfaces with attention to usability and code quality.
+</p>
+
+
 
 <br/>
 
@@ -25,27 +34,26 @@ Passionate about *Web Development*, *UI Design*, and *Software Development*.
 <img src="https://skillicons.dev/icons?i=git,github,vscode,canva&theme=light" alt="Tools" height="45"/>
 
 <br/><br/>
+
+## Projects
+
+### SHAAA Cosmetics — Beauty E-Commerce Website  
+**Repository:** https://github.com/Monishamatthew/Shaaa_cosmeticss  
+
+A frontend-focused beauty cosmetics website designed to showcase products with a clean and visually appealing interface.  
+Emphasis on responsive layout, intuitive navigation, and a smooth user experience across devices.
+
+**Tech Stack:** HTML, CSS, JavaScript  
+
 ---
 
-<div align="center">
+### Lune De Fleur — Online Flower Purchase Website  
+**Repository:** https://github.com/Monishamatthew/Lune_De_Fluer  
 
-<h1>Currently Building — <span style="color:#FADADD;">SHAA Cosmetics</span></h1>
+A floral e-commerce website built to enable users to browse and purchase flower arrangements through a simple and elegant interface.  
+Focused on structured product display, responsive design, and user-friendly interaction flow.
 
-<p style="font-size:18px; color:#E6E6FA;">
-A <b>modern e-commerce website</b> designed for a cosmetics brand —  
-featuring <b>product showcase</b>, <b>responsive design</b>, and <b>smooth UI/UX</b>.
-</p>
-
-<p style="font-size:17px; color:#D8BFD8;">
-<b>Tech Stack:</b> HTML, CSS, JavaScript  </br>
-<b>Goal:</b> Build a visually engaging and user-friendly shopping experience.
-</p>
-
-<br/>
-<hr style="border: 1px solid #444; width: 60%;"/>
-<br/>
-
-</div>
+**Tech Stack:** HTML, CSS, JavaScript
 
 # 🚀 Competitive Programming
 
