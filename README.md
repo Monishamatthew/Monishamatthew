@@ -57,11 +57,11 @@ Focused on structured product display, responsive design, and user-friendly inte
     <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge" />
   </a>
 
-  <a href="https://leetcode.com/u/Siby_R/" target="_blank">
+  <a href="https://leetcode.com/u/monisha_ganesh20/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge" />
   </a>
 
-  <a href="https://codeforces.com/profile/Siby_R" target="_blank">
+  <a href="https://codeforces.com/profile/monisha.ganesh20" target="_blank">
     <img src="https://img.shields.io/badge/Codeforces-FF8C00?style=for-the-badge" />
   </a>
 
@@ -69,7 +69,7 @@ Focused on structured product display, responsive design, and user-friendly inte
     <img src="https://img.shields.io/badge/AtCoder-00AA00?style=for-the-badge" />
   </a>
   
-  <a href="https://codolio.com/profile/siby369" target="_blank">
+  <a href="https://codolio.com/profile/monisha.ganesh20" target="_blank">
     <img src="https://img.shields.io/badge/Codolio-FF6F00?style=for-the-badge" />
   </a>
 </p>
@@ -156,16 +156,13 @@ Focused on structured product display, responsive design, and user-friendly inte
 # 🤝 Connect with Me  
 
 <p align="left">
-  <a href="mailto:sibyraj369@gmail.com">
+  <a href="mailto:monisha.ganesh20@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge" />
   </a>
 
-  <a href="https://www.linkedin.com/in/siby-r-222sl/" target="_blank">
+  <a href="https://www.linkedin.com/in/monishag/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge" />
   </a>
 
-  <a href="https://codolio.com/profile/siby369" target="_blank">
-    <img src="https://img.shields.io/badge/Codolio-FF6F00?style=for-the-badge" />
-  </a>
 </p>
 
