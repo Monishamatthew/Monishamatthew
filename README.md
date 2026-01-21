@@ -56,24 +56,18 @@ Focused on structured product display, responsive design, and user-friendly inte
   <a href="https://www.codechef.com/users/kit27.csbs37" target="_blank">
     <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge" />
   </a>
-
   <a href="https://leetcode.com/u/monisha_ganesh20/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge" />
   </a>
-
   <a href="https://codeforces.com/profile/monisha.ganesh20" target="_blank">
     <img src="https://img.shields.io/badge/Codeforces-FF8C00?style=for-the-badge" />
   </a>
-
-  
-  
   <a href="https://codolio.com/profile/monisha.ganesh20" target="_blank">
     <img src="https://img.shields.io/badge/Codolio-FF6F00?style=for-the-badge" />
   </a>
 </p>
 
-
-<table align="left">
+<table>
   <tr>
     <th>Platform</th>
     <th>Problems Solved</th>
@@ -82,22 +76,21 @@ Focused on structured product display, responsive design, and user-friendly inte
   </tr>
   <tr>
     <td>LeetCode</td>
-    <td>32</td></td>
-    <td>512</td></td>
+    <td>75+</td>
+    <td>512</td>
     <td>2</td>
   </tr>
   <tr>
     <td>CodeChef</td>
-    <td>272</td></td>
-    <td>1120</td></td>
-    <td>93</td></td>
+    <td>275+</td>
+    <td>1120</td>
+    <td>93</td>
   </tr>
 </table>
-<br>
-<p align="center" style="color:#D8BFD8;">💡 Currently improving problem-solving skills through practice and contests!</p>
 
-<br/>
----
+<p align="left">
+💡 <i>Currently improving problem-solving skills through practice and contests!</i>
+</p>
 
 # 🎓 Education  
 
@@ -120,36 +113,24 @@ Focused on structured product display, responsive design, and user-friendly inte
   </tr>
 </table>
 
-<br/><br/>
----
+<br clear="left"/>
 
-# 📊 GitHub Stats  
+## 📊 GitHub Stats
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <div align="center">
-        <img src="https://nirzak-streak-stats.vercel.app/?user=Monishamatthew&theme=shadow_green&hide_border=false" alt="Streak Stats" />
-        <br/>
-      </div>
-    </td>
-  </tr>
-</table>
+<img align="left" src="https://nirzak-streak-stats.vercel.app/?user=Monishamatthew&theme=shadow_green&hide_border=false" alt="GitHub Streak Stats" />
 
-<br/>
+<br clear="left"/>
 
-<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Monishamatthew&layout=compact&theme=dark&title_color=BA55D3&text_color=D8BFD8"/> -->
-
-<br/><br/>
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Monishamatthew&bg_color=000000&color=929ba5&line=2ab247&point=8f98a3&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<div align="center">
+<p align="left">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Monishamatthew/Monishamatthew/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Monishamatthew/Monishamatthew/output/github-snake.svg" />
     <img alt="github-snake" src="https://raw.githubusercontent.com/Monishamatthew/Monishamatthew/output/github-snake.svg" />
   </picture>
-</div>
+</p>
+
 
 # 🤝 Connect with Me  
 
